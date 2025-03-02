@@ -49,6 +49,7 @@ Vikreta is an innovative e-commerce platform designed to empower local craftsmen
 ## System Architecture
 
 The system architecture is designed for efficiency, security, and seamless user interactions. It includes a robust database to manage data related to products, customers, sellers, and administrators.
+![Architecture Diagram](https://github.com/amanrathour14/Vikreta/blob/main/diagram.png)
 
 ## Installation
 
@@ -92,7 +93,7 @@ For data analysis, open the **Power BI file** to explore insights on sales trend
 - Implemented KPI indicators for real-time tracking of sales and revenue.
 
 ### Screenshot
-![dashboard preview](https://github.com/avishek09/E-Commerce-Store-Analysis-/assets/75924699/5151c585-882b-4db4-b324-a8cc63256fb4)
+![dashboard preview](https://github.com/amanrathour14/Vikreta/blob/main/E-Commerce-Store-Analysis--main/Dashboard.png)
 
 ## Contributors
 
